@@ -1,4 +1,12 @@
 # machine-learning
 Content for Udacity's Machine Learning curriculum, which includes projects and their descriptions.
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. Please refer to [Udacity Terms of Service](https://www.udacity.com/legal) for further information.
+Exploratory Project: Titanic Survival Exploration
+Model Evaluation and Validation
+# Project 1: Predicting Boston Housing Prices
+Supervised Learning
+# Project 2: Building a Student Intervention System (Predicting whether or not students will fail so schools can intervene to help them graduate)
+Unsupervised Learning
+# Project 3: Creating Customer Segments (Segmenting customers based on spending in different categories)
+Reinforcement Learning
+# Project 4: Train a Smartcab to Drive (Implement Q-learning algorithm)
+Machine Learning Specialisation of Choice
